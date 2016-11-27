@@ -1,0 +1,11 @@
+.my-image {
+	border-radius: 50%;
+}
+
+.custom-card-class:hover {
+	background-color : #E3E1E1;
+}
+
+.card-title {
+	text-align: center
+}
